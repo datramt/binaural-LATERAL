@@ -16,5 +16,3 @@ _binaural lateral localization.maxpat (run with max 7)
 This software was designed for and used by Harvard University students in SPU 13 (physics/psychoacoustics course) to conduct binaural localization experiments. 
 
 Please contact Dan Tramte at listen@dantramte.com for questions
-
-PLEASE DO NOT DISSEMINATE 
